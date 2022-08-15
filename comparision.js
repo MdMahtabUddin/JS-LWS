@@ -1,1 +1,14 @@
 // LWS-33
+let x =6;
+// *value of x is a number 
+
+let y ='6';
+// ? value of y is a string 
+
+// console.log (x==y); 
+// * output is true 
+// == works only value . 
+// console.log(x===y);
+// === works value and data type both
+// output is false
+

@@ -1,9 +1,9 @@
 // LWS-33
-let x =6;
+// let x =6;
 // *value of x is a number 
 
-let y ='6';
-// ? value of y is a string 
+ let y ='6'; 
+// ! value of y is a string 
 
 // console.log (x==y); 
 // * output is true 
@@ -26,6 +26,19 @@ let y ='6';
 // if (age >18 && age <25 || age == 20){
 //     console.log('you are adult')
 // }
+
+
+// ? Ternary Operator
+// var age =20;
+// console.log( age > 18 ? 'you are adult' : 'you are not adult');
+
+// simple way to if and else part 
+// when a condion is true print you are adult , 
+// but print a you are are not adult when condition false 
+
+
+
+
 
 
 

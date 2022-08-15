@@ -12,3 +12,21 @@ let y ='6';
 // === works value and data type both
 // output is false
 
+
+// Logical Operator 
+//    * or || operator
+// var age =18;
+// if (age ==16 || age ==18 ||age ==15){
+//     console.log('you are adult');
+// }
+
+
+// * && operator
+// var age =20;
+// if (age >18 && age <25 || age == 20){
+//     console.log('you are adult')
+// }
+
+
+
+

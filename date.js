@@ -4,6 +4,16 @@
 // console.log(d);
 
 
+// JavaScript will (by default) output dates in full text string format:
+
+const d = new Date();
+console.log(d.toString());
+
+// The ISO 8601 syntax (YYYY-MM-DD) is also the preferred JavaScript date format:
+
+
+
+
 
 
 
